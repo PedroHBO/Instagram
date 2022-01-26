@@ -22,4 +22,4 @@ Utilizando uma imagem icon:
 ```
 
 
-**Lets Bora!**
+**Avante DEV!**
